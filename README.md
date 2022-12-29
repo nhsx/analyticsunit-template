@@ -4,6 +4,7 @@
 ### About the Project
 
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
+![build: status](https://github.com/nhsx/analyticsunit-template/actions/workflows/pre-commit.yaml/badge.svg)
 
 This repository holds code for the {PROJECT NAME} {SHORT DESCRIPTION}
 
