@@ -2,7 +2,8 @@
 To ensure that the code we publish is appropraite, clear and reusable we require a set way of working when pushing code to private and public repoistories.  It is difficult to set any precise but generic standards and so we ask that the following checklist is considered with mandatroy items filled out.
 
 ## When publishing your code you need to make sure:
- 
+
+
 ### you’re clear about who owns the code and how others can use it
 
 - [ ] Does your code have an appropriate licence and copyright notice?  (**Mandatory**)
