@@ -38,7 +38,7 @@ To create a suitable environment:
 - `source _env/bin/activate`
 - `pip install -r requirements.txt`
 
-{ADDITIONAL TECHNICAL SUPPORT AND NEEDS} 
+{ADDITIONAL TECHNICAL SUPPORT AND NEEDS}
 
 ### Usage
 {DESCRIPTION OF CODE}
